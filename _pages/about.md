@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**mav-er-ick** *n.* A person who shows independence of thought and action,  
+especially by refusing to adhere to the policies of a group to which that person belongs.  
+*The American Heritage Dictionary*
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+"My job is to be sufficiently entertaining and outrageous to get people to spend a bit of time thinking about serious issues. And while I assert what I believe (at that particular moment) with outrageous certainty, you will also find if you read far enough that I always concede down the road that I quite see the other side of the argument."
+
+Peter Huber, 1952--2021
