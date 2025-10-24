@@ -10,7 +10,7 @@ echo "Pulling latest changes..."
 git pull
 
 echo "Restarting service..."
-docker-compose -f docker-compose.prod.yml down
+docker-compose -f docker-compose.yml down
 docker-compose up --build
 
 echo "Website updated at: $(date)"
