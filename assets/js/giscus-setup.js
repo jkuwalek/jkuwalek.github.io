@@ -20,7 +20,7 @@ function determineGiscusTheme() {
     src: "https://giscus.app/client.js",
     "data-repo": "jkuwalek/jkuwalek.github.io",
     "data-repo-id": "R_kgDOQSiwxA",
-    "data-category": "Announcements",
+    "data-category": "General",
     "data-category-id": "DIC_kwDOQSiwxM4CxoMj",
     "data-mapping": "pathname",
     "data-strict": "0",
