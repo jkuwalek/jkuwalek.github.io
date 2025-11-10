@@ -23,7 +23,7 @@ function determineGiscusTheme() {
     "data-category": "Announcements",
     "data-category-id": "DIC_kwDOQSiwxM4CxoMj",
     "data-mapping": "pathname",
-    "data-strict": "1",
+    "data-strict": "0",
     "data-reactions-enabled": "1",
     "data-emit-metadata": "0",
     "data-input-position": "bottom",
