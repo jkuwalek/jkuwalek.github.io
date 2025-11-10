@@ -5,15 +5,7 @@ title: blog
 nav: true
 nav_order: 1
 pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+  enabled: false
 ---
 
 <div class="post">
@@ -101,15 +93,10 @@ pagination:
 
 {% endif %}
 
+  {% assign postlist = site.posts | where_exp: "post", "post.path contains 'visible_posts'" %}
+
+  {% if postlist.size > 0 %}
   <ul class="post-list">
-
-    {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts | where_exp: "post", "post.path contains 'visible_posts'" %}
-    {% else %}
-      {% assign postlist = site.posts | where_exp: "post", "post.path contains 'visible_posts'" %}
-    {% endif %}
-
-    {% if postlist.size > 0 %}
     {% for post in postlist %}
 
     {% if post.external_source == blank %}
@@ -187,14 +174,9 @@ pagination:
     </li>
 
     {% endfor %}
-    {% else %}
-    <p>No blog posts yet. Check back soon!</p>
-    {% endif %}
-
   </ul>
-
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
+  {% else %}
+  <p>No blog posts yet. Check back soon!</p>
+  {% endif %}
 
 </div>
