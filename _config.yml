@@ -94,6 +94,12 @@ lsi: false # produce an index for related posts
 # Pagination
 pagination:
   enabled: true
+  collection: posts
+  indexpage: blog
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
 
 related_blog_posts:
   enabled: true
@@ -194,6 +200,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/examples
+  - _posts/examples
 keep_files:
   - CNAME
   - .nojekyll
