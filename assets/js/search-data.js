@@ -426,9 +426,18 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/template/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-test-news",
+          title: 'test news',
+          description: "",
+          section: "News",},{id: "news-course-details-will-be-announced-on-02-02-2026",
+          title: 'Course details will be announced on 02/02/2026',
+          description: "",
+          section: "News",},{id: "news-course-details-will-be-announced-on-01-02-2026",
+          title: 'Course details will be announced on 01/02/2026',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
