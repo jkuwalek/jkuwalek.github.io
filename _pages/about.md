@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc Artificial Intelligence @ <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a> | Incoming Engineering Intern @ <a href='https://www.airfranceklm.com/en'>Air France KLM</a>
+subtitle: BSc Artificial Intelligence @ <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a> <br>Incoming Engineering Intern @ <a href='https://www.airfranceklm.com/en'>Air France KLM</a>
 
 profile:
   align: right
