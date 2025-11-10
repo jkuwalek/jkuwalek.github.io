@@ -19,10 +19,10 @@ function determineGiscusTheme() {
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
     "data-repo": "jkuwalek/jkuwalek.github.io",
-    "data-repo-id": "",
+    "data-repo-id": "R_kgDOQSiwxA",
     "data-category": "Announcements",
-    "data-category-id": "",
-    "data-mapping": "title",
+    "data-category-id": "DIC_kwDOQSiwxM4CxoMj",
+    "data-mapping": "pathname",
     "data-strict": "1",
     "data-reactions-enabled": "1",
     "data-emit-metadata": "0",
