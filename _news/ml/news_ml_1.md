@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-test news
+Course details will be announced on 02/02/2026
