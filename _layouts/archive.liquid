@@ -18,7 +18,8 @@ layout: default
   <article class="archive">
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-        {% for document in page.documents %}
+        {% assign visible_documents = page.documents | where_exp: "doc", "doc.path contains 'visible_posts'" %}
+        {% for document in visible_documents %}
           <tr>
             <th scope="row">{{ document.date | date: '%b %d, %Y' }}</th>
             <td>
