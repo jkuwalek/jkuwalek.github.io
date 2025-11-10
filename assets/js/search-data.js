@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Courses I&#39;m teaching as a TA in the academic year 2025/2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -496,6 +496,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-probability-amp-statistics",
+          title: 'Probability &amp;amp; Statistics',
+          description: "Teaching Assistant for Probability &amp; Statistics course",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/1_probability_statistics/";
+            },},{id: "teaching-machine-learning",
+          title: 'Machine Learning',
+          description: "Teaching Assistant for Machine Learning course",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2_machine_learning/";
             },},{
         id: 'social-email',
         title: 'email',
