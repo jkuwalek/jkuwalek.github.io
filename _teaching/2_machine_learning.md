@@ -17,7 +17,7 @@ This page will contain materials and resources for the Machine Learning course.
 ### Course Announcements
 
 <div class="news">
-  {% assign ml_news = site.news | where_exp: "item", "item.path contains '_news/ml/'" | reverse %}
+  {% assign ml_news = site.news | where_exp: "item", "item.path contains '_news/ml'" | reverse %}
   {% if ml_news.size > 0 %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">

@@ -17,7 +17,7 @@ This page will contain materials and resources for the Probability & Statistics 
 ### Course Announcements
 
 <div class="news">
-  {% assign ps_news = site.news | where_exp: "item", "item.path contains '_news/ps/'" | reverse %}
+  {% assign ps_news = site.news | where_exp: "item", "item.path contains '_news/ps'" | reverse %}
   {% if ps_news.size > 0 %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
