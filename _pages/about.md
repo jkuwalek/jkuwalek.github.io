@@ -30,6 +30,7 @@ latest_posts:
 "Definition of success is going from failure to failure without losing your enthusiasm" ~_Winston Churchill_
 <br>
 
+
 That's what really sums me up as a person. Game theory gives language to how I naturally see the world: outcomes are rarely binary, information is always incomplete, and the best decisions are often made without knowing how things will turn out. I’m fascinated by how small advantages compound, how incentives shape behavior, and how rational strategies emerge in imperfect systems. 
 <br><br>
 If you're my current student, all study materials are available on the [teaching page](/teaching/).
