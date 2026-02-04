@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-is-randomness-real-or-just-ignorance-in-disguise",
+        },{id: "post-is-randomness-real-or-it-39-s-just-ignorance-in-disguise",
         
-          title: "Is Randomness Real or Just Ignorance in Disguise?",
+          title: "Is randomness real or it&#39;s just ignorance in disguise?",
         
         description: "",
         section: "Posts",
