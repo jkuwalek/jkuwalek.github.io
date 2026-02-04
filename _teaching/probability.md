@@ -7,11 +7,6 @@ importance: 1
 category: 2025/2026
 ---
 
-## Probability & Statistics
-
-**Academic Year:** 2025/2026  
-**Role:** Teaching Assistant  
-
 ### Location
 
 **Building & Classroom:** NU-4B17  
@@ -53,4 +48,4 @@ Slides from each tutorial session will be posted here.
 
 To make your preparation for the final exam as smooth and pleasant as possible, I’ve prepared a study guide that will help you review the material effectively. You’ll find it here:
 
-> [Study guide]({{ "/assets/pdf/ps_tutorial_1_slides.pdf" | relative_url }})
+> [Study guide]({{ "/assets/pdf/ps_final_study_guide.pdf" | relative_url }})
