@@ -23,14 +23,14 @@ Probability theory gives us two very different lenses to look at this question.
 
 ⸻
 
-The Coin: Randomness as Ignorance
+### Coin: Randomness as Ignorance
 
 In classical physics, the universe is deterministic.
 
 If you knew the exact state of every particle and all the forces acting on them, the future would be fixed. The coin flip is governed by Newton’s laws. There is no magic involved. The apparent randomness comes from our limitations:
-	•	we cannot measure initial conditions precisely
-	•	we cannot compute the outcome fast enough
-	•	tiny errors explode into big differences, chaos
+	- we cannot measure initial conditions precisely
+	- we cannot compute the outcome fast enough
+	- tiny errors explode into big differences, chaos
 
 From this perspective, probability is a tool for incomplete knowledge.
 
@@ -38,7 +38,7 @@ We assign 50 percent to heads and 50 percent to tails not because the coin is in
 
 This view aligns with a Bayesian interpretation of probability:
 
-Probability measures belief, not reality.
+> Probability measures belief, not reality.
 
 When we say “the probability of heads is 0.5,” we are really saying: given what I know, I assign equal plausibility to both outcomes.
 
@@ -46,9 +46,9 @@ The randomness lives in the observer, not in the coin.
 
 In probability theory, this is called epistemic uncertainty, uncertainty due to lack of knowledge.
 
-⸻
+---
 
-The Radioactive Atom: Randomness as Reality
+### Radioactive Atom: Randomness as Reality
 
 Now enter quantum mechanics.
 
@@ -66,19 +66,19 @@ This is called ontic uncertainty, uncertainty that is part of reality itself.
 
 In this domain, probability is not just a bookkeeping trick. It is a physical law.
 
-⸻
+---
 
-Two Faces of Probability
+### Two Faces of Probability
 
 Probability theory ends up straddling two worlds.
 
-1. Probability as a Measure of Knowledge
+### 1. Probability as a Measure of Knowledge
 
 In classical systems:
-	•	dice rolls
-	•	weather models
-	•	stock markets
-	•	traffic patterns
+	- dice rolls
+	- weather models
+	- stock markets
+	- traffic patterns
 
 probability helps us reason under incomplete information. The system may be deterministic in principle, but too complex to track exactly.
 
@@ -86,14 +86,14 @@ Here probability is epistemological. It describes what we know.
 
 Two observers with different information might assign different probabilities, and both can be rational.
 
-⸻
+--- 
 
-2. Probability as a Law of Nature
+### 2. Probability as a Law of Nature
 
 In quantum systems:
-	•	radioactive decay
-	•	photon detection
-	•	electron spin measurements
+	- radioactive decay
+	- photon detection
+	- electron spin measurements
 
 probability appears to be irreducible. Even a perfect observer cannot eliminate it.
 
@@ -101,9 +101,9 @@ Here probability is ontological. It describes how the world behaves.
 
 No amount of additional knowledge sharpens the prediction to certainty. The universe itself rolls the dice.
 
-⸻
+--- 
 
-A Subtle Twist: Are We Sure?
+### A Subtle Twist: Are we sure?
 
 This raises a philosophical tension.
 
@@ -114,17 +114,17 @@ Einstein famously disliked quantum randomness, saying:
 He suspected hidden variables, deeper laws we had not discovered yet. If those existed, quantum randomness would collapse back into epistemic randomness, ignorance rather than indeterminism.
 
 Experiments testing Bell’s inequalities have strongly constrained hidden-variable theories. Most physicists today accept that quantum randomness is fundamental. But the debate touches deep questions:
-	•	Is the universe deterministic underneath?
-	•	Is probability a feature of reality or a feature of description?
-	•	Does randomness require an observer?
+	- Is the universe deterministic underneath?
+	- Is probability a feature of reality or a feature of description?
+	- Does randomness require an observer?
 
 Probability theory does not answer these questions. It gives a framework flexible enough to describe both interpretations.
 
 That is part of its power.
 
-⸻
+---
 
-Living With Two Kinds of Randomness
+### Living with two kinds of randomness
 
 In everyday life, the distinction rarely matters. Whether a coin flip is “really” random or just unpredictable to us, we still model it with 50/50 odds.
 
