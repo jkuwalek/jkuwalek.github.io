@@ -12,7 +12,7 @@ category: 2025/2026
 **Building & Classroom:** NU-4B17  
 **Tutorial Times:** Thursdays 15:30 & 17:30
 
-### Course Announcements
+<!-- ### Course Announcements
 
 <div class="news">
   {% assign ps_news = site.news | where_exp: "item", "item.path contains '_news/ps'" | reverse %}
@@ -36,7 +36,7 @@ category: 2025/2026
   {% else %}
     <p>No announcements yet...</p>
   {% endif %}
-</div>
+</div> -->
 
 ### Tutorial Slides
 

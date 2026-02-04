@@ -7,14 +7,12 @@ importance: 2
 category: 2025/2026
 ---
 
-## Machine Learning
+### Location
 
-**Academic Year:** 2025/2026  
-**Role:** Teaching Assistant
+**Homework Sessions:** Wednesdays 9:00 & 11:00 | NU-4B17
+**Project Sessions:** Wednesdays: 13:30 | NU-5B43
 
-This page will contain materials and resources for the Machine Learning course.
-
-### Course Announcements
+<!-- ### Course Announcements
 
 <div class="news">
   {% assign ml_news = site.news | where_exp: "item", "item.path contains '_news/ml'" | reverse %}
@@ -38,12 +36,11 @@ This page will contain materials and resources for the Machine Learning course.
   {% else %}
     <p>No announcements yet...</p>
   {% endif %}
-</div>
+</div> -->
 
-### Course Information
+### Homework Session Slides
 
-Add your course content here, such as:
-- Office hours
-- Problem sets
-- Additional resources
+Slides from each tutorial session will be posted here.
+
+- [Homework session 1 (04/02/2026)]({{ "/assets/pdf/ml_homework_1_slides.pdf" | relative_url }})
 
