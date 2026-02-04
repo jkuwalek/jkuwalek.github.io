@@ -162,16 +162,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-probability-amp-statistics",
-          title: 'Probability &amp;amp; Statistics',
-          description: "Teaching Assistant for Probability &amp; Statistics course",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/1_probability_statistics/";
             },},{id: "teaching-machine-learning",
           title: 'Machine Learning',
           description: "Teaching Assistant for Machine Learning course",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/2_machine_learning/";
+              window.location.href = "/teaching/ml/";
+            },},{id: "teaching-probability-amp-statistics",
+          title: 'Probability &amp;amp; Statistics',
+          description: "Teaching Assistant for Probability &amp; Statistics course",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/probability/";
             },},{
         id: 'social-email',
         title: 'email',
