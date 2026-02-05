@@ -9,9 +9,9 @@ category: 2025/2026
 
 ### Location
 
-**Homework Sessions:** Wednesdays 9:00 & 11:00 (NU-4B17)
+**Homework Sessions:** Wednesday 9:00 & 11:00 (NU-4B17)
 
-**Project Sessions:** Wednesdays: 13:30 (NU-5B43)
+**Project Sessions:** Wednesday 13:30 (NU-5B43)
 
 <!-- ### Course Announcements
 
