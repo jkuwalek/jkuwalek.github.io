@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc Artificial Intelligence @ <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a> <br>Engineering Intern @ <a href='https://www.airfranceklm.com/en'>KLM Royal Dutch Airlines</a>
+subtitle: Teaching Assistant @ <a href='https://vu.nl/en'>Vrije Universiteit Amsterdam</a> <br>Engineering Intern @ <a href='https://www.airfranceklm.com/en'>KLM Royal Dutch Airlines</a>
 
 profile:
   align: right
@@ -28,3 +28,5 @@ latest_posts:
 
 <br>
 If you're my current student, all study materials are available on the [teaching page](/teaching/).
+
+Email address: j.k.kuwalek@vu.nl
