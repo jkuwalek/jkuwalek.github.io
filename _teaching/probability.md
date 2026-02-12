@@ -9,8 +9,8 @@ category: 2025/2026
 
 ### Location
 
-**Building & Classroom:** NU-4A06 
-**Tutorial Times:** Thursdays 15:30 & 17:30
+- **Building & Classroom:** NU-4A06 
+- **Tutorial Times:** Thursdays 15:30 & 17:30
 
 <!-- ### Course Announcements
 
