@@ -43,6 +43,7 @@ category: 2025/2026
 Slides from each tutorial session will be posted here.
 
 - [Tutorial 1 (05/02/2026)]({{ "/assets/pdf/ps_tutorial_1_slides.pdf" | relative_url }})
+- [Tutorial 3 (12/02/2026)]({{ "/assets/pdf/ps_tutorial_2_solutions.pdf" | relative_url }})
 
 ### Final Exam Study Guide
 
