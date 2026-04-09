@@ -44,4 +44,9 @@ category: 2025/2026
 Slides from each tutorial session will be posted here.
 
 - [Homework session 1 (04/02/2026)]({{ "/assets/pdf/ml_homework_1_slides.pdf" | relative_url }})
+- [Homework session 2 (11/02/2026)]({{ "/assets/pdf/ml_homework_2_slides.pdf" | relative_url }})
+- [Homework session 3 (18/02/2026)]({{ "/assets/pdf/ml_homework_3_slides.pdf" | relative_url }})
+- [Homework session 4 (25/02/2026)]({{ "/assets/pdf/ml_homework_4_slides.pdf" | relative_url }})
+
+The remaining sessions were held on the whiteboard.
 

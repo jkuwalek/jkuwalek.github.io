@@ -45,6 +45,8 @@ Slides from each tutorial session will be posted here.
 - [Tutorial 1 (05/02/2026)]({{ "/assets/pdf/ps_tutorial_1_slides.pdf" | relative_url }})
 - [Tutorial 3 (12/02/2026)]({{ "/assets/pdf/ps_tutorial_2_solutions.pdf" | relative_url }})
 
+The remaining sessions were held on the whiteboard.
+
 ### Final Exam Study Guide
 
 To make your preparation for the final exam as smooth and pleasant as possible, I’ve prepared a study guide that will help you review the material effectively. You’ll find it here:
